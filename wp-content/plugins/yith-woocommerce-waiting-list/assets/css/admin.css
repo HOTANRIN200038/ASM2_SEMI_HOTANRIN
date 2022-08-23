@@ -1,0 +1,19 @@
+#yith-wcwtl-email-settings {
+    margin-top: -2px;
+}
+
+#yith-wcwtl-email-settings form > h2 + p {
+    border-left: 1px solid #d8d8d8;
+    border-right: 1px solid #d8d8d8;
+    padding: 0 20px;
+    margin: 0;
+    background: #fff;
+}
+
+#yith-wcwtl-email-settings .wc-admin-breadcrumb {
+    display: none;
+}
+
+#yith-wcwtl-email-settings .editor textarea {
+    width: 100%;
+}

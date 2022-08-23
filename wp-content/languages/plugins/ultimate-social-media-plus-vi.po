@@ -1,0 +1,1635 @@
+# Translation of Plugins - Social Share Icons &amp; Social Share Buttons - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Social Share Icons &amp; Social Share Buttons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-17 15:52:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Social Share Icons &amp; Social Share Buttons - Stable (latest release)\n"
+
+#: views/sfsi_option_view2.php:472 views/sfsi_option_view2.php:483
+msgid "To find your User ID/Channel ID, login to your YouTube account, click the user icon at the top right corner and select \"Settings\", then click \"Advanced\" under \"Name\" and you will find both your \"Channel ID\" and \"User ID\" under \"Account Information\"."
+msgstr "Để tìm ID Người dùng/ID Kênh của bạn, hãy đăng nhập vào tài khoản Youtube của bạn, nhấp chuột vào biểu tượng người dùng ở góc phía trên bên phải và chọn \"Cài đặt\", sau đó nhấn vào \"Cài đặt nâng cao\" ở bên tay trái và bạn sẽ tìm thấy cả \"ID kênh\" và \"ID người dùng\" ở mục \"Thông tin tài khoản\"."
+
+#: views/sfsi_pop_content.php:399
+msgid "Don’t activate and exit"
+msgstr "Đừng kích hoạt và thoát ra"
+
+#: views/sfsi_pop_content.php:380
+msgid "Don’t give feedback"
+msgstr "Không đưa đánh giá"
+
+#: views/sfsi_pop_content.php:376
+msgid "Ok, give feedback"
+msgstr "Được, đưa ra đánh giá"
+
+#: views/sfsi_pop_content.php:370
+msgid "Ok, fine, however for using this plugin for FREE, please tell us what you think about it (and what can be improved). It only takes a minute. Thank you!"
+msgstr "Để sử dụng plugin này MIỄN PHÍ, xin hãy cho chúng tôi biết bạn nghĩ gì về nó (và điều gì cần được cải tiến). Việc này chỉ mất một phút. Cám ơn bạn !"
+
+#: views/sfsi_option_view3.php:634
+msgid " Support Forum"
+msgstr "Diễn đàn Hỗ trợ"
+
+#: views/sfsi_options_view.php:81
+msgid "Support Forum"
+msgstr "Diễn đàn Hỗ trợ"
+
+#: views/sfsi_option_view3.php:632
+msgid "Need icons for another theme? Let us know in the"
+msgstr "Bạn cần các biểu tượng cho một chủ đề khác? Hãy cho chúng tôi biết tại"
+
+#: views/sfsi_affiliate_banner.php:7
+msgid "Share the premium plugin and earn 40% of the purchase price!"
+msgstr "Chia sẻ Premium plugin và nhận 40% giá mua!"
+
+#: views/sfsi_option_view7.php:436
+msgid "Select to show the subscription form in the pop-up (which you designed in question 8)"
+msgstr "Chọn để hiển thị form subscription trong pop-up (mà bạn đã thiết kế trong mục 8)"
+
+#: views/sfsi_option_view5.php:615
+msgid "Post"
+msgstr "Bài viết"
+
+#: views/sfsi_option_view5.php:609
+msgid "Page"
+msgstr "Trang"
+
+#: views/sfsi_option_view5.php:639
+msgid "Note: This feature is currently only available in the Premium Plugin."
+msgstr "Chú ý: Tính năng này chỉ có ở bản Trả phí."
+
+#: views/sfsi_option_view5.php:624
+msgid "Hide section for all"
+msgstr "Hiển thị mục này cho tất cả"
+
+#: views/sfsi_option_view5.php:596
+msgid "Sharing texts & pictures?"
+msgstr "Chia sẻ ảnh và hình ảnh?"
+
+#: views/sfsi_option_view2.php:403
+msgid "Tweeting becomes really fun in the Premium Plugin – you can insert tags to automatically pull the title of the story & link to the story, attach pictures & snippets to the Tweets ( 'Twitter cards') and user Url-shorteners, all leading to more Tweets and traffic for your site!. "
+msgstr "Tweet các bài viết trở nên thú vị hơn bao gờ hết với Tiện ích mở rộng Cao cấp (Premium Plugin) - bạn có thể thêm thẻ để kéo tiêu đề bài viết & liên kết lên trang chủ một cách tự động, đính kèm ảnh & đoạn trích dẫn tới bài Tweet (Twitter cards) và công cụ rút gọn URL người dùng, tất cả những điều này sẽ giúp trang web của bạn có thêm nhiều tweet và lượt ghé thăm!"
+
+#: views/sfsi_pop_content.php:22
+msgid "Enter the email you want to use"
+msgstr "Nhập email nếu bạn muốn sử dụng"
+
+#: views/sfsi_option_view9.php:102
+msgid "To get access to the emails who subscribe, interesting statistics about your subscribers, alerts when people subscribe or unsubscribe and to tailor the sender name & the subject line of the emails, please "
+msgstr "Để truy cập vào email người theo dõi, tìm hiểu thông tin về họ, thông báo khi mà họ theo dõi hoặc bỏ theo dõi và biến đổi tên người gửi và dòng email."
+
+#: views/sfsi_option_view2.php:398
+msgid "Hey check out this cool site I found"
+msgstr "Kiểm tra trang web tôi tìm thấy"
+
+#: views/sfsi_option_view2.php:293
+msgid "Privacy Policy."
+msgstr "Chính sách bảo mật"
+
+#: views/sfsi_option_view2.php:291
+msgid "All data will be treated highly confidentially, see the"
+msgstr "Tất cả dữ liệu cần được cung cấp trung thực, xem "
+
+#: views/sfsi_option_view2.php:284
+msgid "Click here to benefit from all advantages >"
+msgstr "Nhấn vào để nhận lợi ích "
+
+#: views/sfsi_option_view2.php:271
+msgid " of the emails"
+msgstr "của email"
+
+#: views/sfsi_option_view2.php:271
+msgid "Tailor the sender name & subject line"
+msgstr "Biến đổi tên người gửi và dòng"
+
+#: views/sfsi_option_view2.php:270
+msgid " when people subscribe or unsubscribe"
+msgstr "Khi họ theo dõi hoặc bỏ theo dõi"
+
+#: views/sfsi_option_view2.php:270
+msgid "Get alerts"
+msgstr "Đặt báo thức"
+
+#: views/sfsi_option_view2.php:269
+msgid "Get more traffic"
+msgstr "Thêm nhiều phương tiện"
+
+#: views/sfsi_option_view2.php:264
+msgid "Facebook & Twitter"
+msgstr "Facebook và Twitter"
+
+#: views/sfsi_option_view2.php:264
+msgid "Automatically post on "
+msgstr "Tự động đăng trên"
+
+#: views/sfsi_option_view2.php:263
+msgid "interesting statistics"
+msgstr "Thông tin thú vị"
+
+#: views/sfsi_option_view2.php:263
+msgid " & "
+msgstr "và"
+
+#: views/sfsi_option_view2.php:263
+msgid "subscribers’ emails"
+msgstr "email của người theo dõi"
+
+#: views/sfsi_option_view2.php:263
+msgid "See your "
+msgstr "xem "
+
+#: views/sfsi_option_view2.php:262
+msgid " to your site"
+msgstr "Đến trang của bạn"
+
+#: views/sfsi_option_view2.php:262
+msgid "More people come back"
+msgstr "Nhiều người trở lại"
+
+#: views/sfsi_option_view2.php:258
+msgid "The service offers many (more) advantages:"
+msgstr "Dịch vụ yêu cầu nhiều lợi ích hơn :"
+
+#: views/sfsi_option_view2.php:224
+msgid ") and receive new posts automatically by email."
+msgstr ") và tự động nhận những bài đăng mới qua email"
+
+#: ultimate_social_media_icons.php:730
+msgid "If you do not know how to do the upgrade, please ask your server team or hosting company to do it for you."
+msgstr "Nếu bạn không biết cách để nâng cấp, hãy hỏi đội máy chủ hoặc chủ công ty để làm điều đó giúp bạn"
+
+#: ultimate_social_media_icons.php:728
+msgid "We noticed you are running your site on a PHP version older than 5.6. Please upgrade to a more recent version. This is not only important for running the Ultimate Social Media Plugin, but also for security reasons in general."
+msgstr "Chúng tôi nhận thấy rằng bạn đang chạy website của bạn trên PHP phiên bản cũ hơn 5.6. Hãy nâng cấp lên phiên bản mới nhất. Nó quan trọng cho cả việc chạy plugin này lẫn bảo mật. "
+
+#: views/sfsi_option_view4.php:727
+msgid "Now you will be redirected to the redirect url (which you entered during app creation) and find your access token at the end of this url"
+msgstr "Bây giờ bạn sẽ được chuyển hướng tới URL chuyển hướng (là URL mà bạn đã nhập vào khi tạo ứng dụng) và tìm mã thông báo truy cập (access token) của bạn ở cuối URL này"
+
+#: views/sfsi_option_view4.php:728
+msgid "Copy the access token, paste it into the plugin and click on “Save”"
+msgstr "Sao chép mã thông báo truy cập (access token), dán vào tiện ích mở rộng và nhấn \"Lưu\""
+
+#: views/sfsi_option_view4.php:726
+msgid "Authorize your app to access your account info by clicking the “Authorize” button"
+msgstr "Cho phép ứng dụng của bạn truy cập vào thông tin tài khoản của bạn bằng cách nhấp chuột vào nút \"Uỷ quyền\""
+
+#: views/sfsi_option_view4.php:725
+msgid "Copy the “Client id” and “Redirect url” you entered into the plugin. Also enter your Instagram User name. After that click on the “Generate token” button"
+msgstr "Sao chép \"ID khách hàng\" và \"URL chuyển hướng\" mà bạn đã nhập vào tiện ích mở rộng. Bạn cũng cần nhập tên tài khoản Instagram của bạn. Sau đó click vào nút \"Tạo mã thông báo\""
+
+#: views/sfsi_option_view4.php:724
+msgid "Then click on “Register” button"
+msgstr "Sau đó hãy nhấp chuột vào vào nút \"Đăng ký\""
+
+#: views/sfsi_option_view4.php:722
+msgid "Login and then click on “Register Your Application” to get to the “Manage Clients” section. On there click on the “Register a new client” button"
+msgstr "Đăng nhập và click vào \"Đăng ký ứng dụng của bạn\" để  truy cập vào mục \"Quản lý khách hàng\". Tại đó hãy click vào nút \"Đăng ký khách hàng mới\""
+
+#: views/sfsi_option_view4.php:723
+msgid "Fill out the form and make sure that the “Redirect url” is valid and uncheck the “Disable Implicit oAuth” under the security tab"
+msgstr "Hãy điền vào mẫu và chắc chắn rằng \"URL chuyển hướng\" có thể truy cập được và bỏ chọn \" Vô hiệu hoá Implicit oAuth\" ở phía dưới tab bảo mật"
+
+#: views/sfsi_option_view4.php:694
+msgid "Enter Instagram Client Id"
+msgstr "Nhập tên tài khoản Instagram của khách hàng"
+
+#: views/sfsi_option_view4.php:700
+msgid "Enter Instagram Redirect Url"
+msgstr "Nhập đường link chuyển hướng Instagram"
+
+#: views/sfsi_option_view4.php:707
+msgid "Generate Token"
+msgstr "Tạo mã thông báo"
+
+#: views/sfsi_option_view4.php:712
+msgid "Enter Instagram Token"
+msgstr "Nhập mã thông báo Instagram"
+
+#: views/sfsi_option_view1.php:647
+msgid "Amazon"
+msgstr "Amazon"
+
+#: views/sfsi_option_view1.php:632
+msgid "Steam"
+msgstr "Steam"
+
+#: views/sfsi_option_view1.php:302 views/sfsi_option_view2.php:664
+msgid "Telegram"
+msgstr "Telegram"
+
+#: views/sfsi_option_view1.php:625
+msgid "Blogger"
+msgstr "Blogger"
+
+#: views/sfsi_option_view1.php:619
+msgid "Buffer"
+msgstr "Buffer"
+
+#: views/sfsi_option_view1.php:319 views/sfsi_option_view2.php:703
+msgid "VK"
+msgstr "VK"
+
+#: views/sfsi_option_view1.php:557
+msgid "Yelp"
+msgstr "Yelp"
+
+#: views/sfsi_option_view1.php:563
+msgid "Print"
+msgstr "In"
+
+#: views/sfsi_option_view1.php:653
+msgid "Twitch"
+msgstr "Twitch"
+
+#: views/sfsi_option_view1.php:640
+msgid "Xing"
+msgstr "Xing"
+
+#: views/sfsi_option_view1.php:591
+msgid "Angie’s List"
+msgstr "Angie’s List"
+
+#: views/sfsi_option_view5.php:584
+msgid " Align icons within the «container» where you place them via shortcode (left, right, centered)  "
+msgstr "Căn chỉnh các icon trong \"hộp\", nơi mà bạn có thể đặt chúng qua các code ngắn( trái, phải, centered)"
+
+#: views/sfsi_option_view5.php:584
+msgid " Show icons vertically"
+msgstr "Hiển thị các icon theo chiều dọc"
+
+#: views/sfsi_option_view5.php:584
+msgid "The Premium Plugin gives several more alignment options:"
+msgstr "Plugin Cao Cấp mang tới cho bạn thật nhiều sự lựa chọn hơn nữa về sự sắp hàng:"
+
+#: views/sfsi_option_view5.php:557
+msgid "(with respect to each other)"
+msgstr "(với sự tôn trọng lẫn nhau)"
+
+#: views/sfsi_option_view5.php:584
+msgid " Align icons within a widget (left, right, centered)"
+msgstr "sắp xếp các hình theo hướng (trái, phải, trung tâm)"
+
+#: views/sfsi_option_view4.php:437
+msgid "Therefore we implemented a solution as part of our Premium Plugin where you can easily set up your own API in a few steps, which will fix this problem."
+msgstr "Bởi vậy chúng tôi bổ sung một quyết định như là một phần của chương trình tiện ích mở rộng, nơi mà bạn có thể dễ dàng thiết lập API bằng một vài bước, điều sẽ giải quyết các vấn đề này"
+
+#: views/sfsi_option_view4.php:437
+msgid "Note: "
+msgstr "Ghi chú:"
+
+#: views/sfsi_option_view2.php:350
+msgid " In our Premium Plugin you can also allow users to follow you on Facebook directly from your site (without leaving your page, increasing followers). "
+msgstr "Trong Tiện ích mở rộng Cao cấp người dùng cũng có thể theo dõi bạn trên Facebook trực tiếp từ trang web của bạn (mà không cần rời trang web, đồng thời tăng lượng người theo dõi cho bạn)."
+
+#: views/sfsi_option_view2.php:299
+msgid " In our Premium Plugin you can now give your email icon other functions too, e.g. contact you (email), share by email, and link to a certain page (e.g. your contact form or newsletter sign-up site). "
+msgstr "Trong Tiện ích mở rộng Cao Cấp người dùng cũng có thể để lại icon email hoặc những chức năng khác, ví dụ liên lạc với bạn (email), chia sẻ bằng email, hay là liên kết tới một trang webnaof đó ( chẳng hạn như mẫu liên hệ hoặc trang đăng kí bản tin của bạn)"
+
+#: ultimate_social_media_icons.php:631
+msgid "BIG NEWS : There is now a Premium Ultimate Social Media Plugin available with many more cool features: "
+msgstr "Tin HOT: Tiện ích mở rộng cao cấp truyền thông xã hội nay đã sẵn sàng với nhiều tính năng hấp dẫn"
+
+#: views/sfsi_option_view8.php:507
+msgid "We also added a Linkedin share-icon in the Premium Plugin."
+msgstr "Chúng tôi đã thêm icon chia sẻ trên Linkedin cho Tiện ích mở rộng Cao cấp."
+
+#: views/sfsi_option_view4.php:437
+msgid "This plugin uses one API shared by all users of this plugin. There is a limit (set by Facebook) how often this API can get the counts per day, so it may happen that it returns “0 counts” later in the day."
+msgstr "Tiện ích sử dụng API được chia sẻ bởi mọi người sử dụng tiện ích này. Nó có giới hạn (được thiết đặt bởi Facebook) API có thể đạt được bao nhiêu một ngày, vì vậy nó có thể xảy ra trường hợp trở về \"0\" sau một ngày"
+
+#: views/sfsi_option_view1.php:670
+msgid "See all features Premium Plugin"
+msgstr "Xem toàn bộ tính năng của Tiện ích mở rộng Cao cấp."
+
+#: views/sfsi_option_view1.php:530 views/sfsi_option_view2.php:299
+#: views/sfsi_option_view2.php:350 views/sfsi_option_view2.php:848
+msgid "New:"
+msgstr "Mới:"
+
+#: views/sfsi_option_view1.php:663
+msgid "Tell us"
+msgstr "Cho chúng tôi biết"
+
+#: views/sfsi_option_view1.php:613
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: views/sfsi_option_view1.php:598
+msgid "Reddit"
+msgstr "Reddit"
+
+#: views/sfsi_option_view1.php:584
+msgid "Flickr"
+msgstr "Flickr"
+
+#: views/sfsi_option_view1.php:606
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: views/sfsi_option_view1.php:578
+msgid "Skype"
+msgstr "Skype"
+
+#: views/sfsi_option_view1.php:537
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: views/sfsi_option_view1.php:571
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: views/sfsi_option_view1.php:551
+msgid "Yummly"
+msgstr "Yummly"
+
+#: views/sfsi_option_view1.php:544
+msgid "WhatsApp or Phone"
+msgstr "WhatsApp hoặc điện thoại"
+
+#: views/sfsi_option_view1.php:530
+msgid "In our Premium Plugin we added icons for:"
+msgstr "Trong Tiện ích mở rộng Cao cấp chúng tôi đã thêm các biểu tượng cho:"
+
+#: views/sfsi_option_view1.php:663
+msgid "Need another one?"
+msgstr "Bạn cần một cái khác ?"
+
+#: views/sfsi_option_view2.php:403 views/sfsi_option_view2.php:523
+#: views/sfsi_option_view2.php:654 views/sfsi_option_view2.php:690
+#: views/sfsi_option_view2.php:721 views/sfsi_option_view2.php:745
+#: views/sfsi_option_view2.php:767 views/sfsi_option_view2.php:796
+#: views/sfsi_option_view5.php:534 views/sfsi_option_view5.php:540
+#: views/sfsi_option_view5.php:584 views/sfsi_option_view7.php:423
+#: views/sfsi_option_view7.php:432 views/sfsi_option_view8.php:507
+#: views/sfsi_option_view8.php:579 views/sfsi_option_view8.php:788
+#: views/sfsi_option_view8.php:861
+msgid "New: "
+msgstr "Mới:"
+
+#: views/sfsi_pop_content.php:33
+msgid "Privacy Policy"
+msgstr "Chính sách bảo mật"
+
+#: views/sfsi_pop_content.php:36
+msgid "If you already have an account, please "
+msgstr "Nếu bạn đã đăng ký tài khoản,hãy"
+
+#: views/sfsi_pop_content.php:33
+msgid "We will treat your data (and your subscribers’ data!) highly confidentially, see our "
+msgstr "Chúng tôi sẽ bảo mật mọi thông tin của bạn (và cả của những người đang theo dõi bạn), hãy xem"
+
+#: views/sfsi_pop_content.php:29
+msgid "Give me access!"
+msgstr "Cho tôi quyền truy cập!"
+
+#: views/sfsi_pop_content.php:33
+msgid "This will create your FREE acccount on "
+msgstr "Đăng ký tài khoản miễn phí trên"
+
+#: views/sfsi_option_view9.php:104
+msgid "click here."
+msgstr "click vào đây."
+
+#: views/subviews/que4/animatethem.php:29
+msgid "Scale"
+msgstr "Phạm vi"
+
+#: libs/sfsi_install_uninstall.php:1452
+msgid "Error: Please fix your theme to make plugins work correctly. Go to the Theme Editor and insert the following string as the first line of your theme's footer.php file: "
+msgstr "Lỗi: Hãy sửa lại phông chủ đề để chương trình có kể chạy bình thường. Vào mục chỉnh sửa chủ đề và chèn chuỗi kí tự sau vào tệp your theme's footer."
+
+#: views/sfsi_option_view8.php:351
+msgid "Place the following string into your theme codes: "
+msgstr "Chèn những chuỗi kí tự sau vào phần code của mục chủ đề:"
+
+#: views/sfsi_option_view8.php:355
+msgid "Or use the shortcode [DISPLAY_ULTIMATE_PLUS] to display them wherever you want."
+msgstr "Hoặc sử dụng code ngắn [DISPLAY_ULTIMATE_PLUS] để hiển thị những gì bạn muốn."
+
+#: libs/sfsi_install_uninstall.php:1427
+msgid "Please enter it just before the following line of your header.php file:"
+msgstr "Trong file header.php, hãy chèn nó trước dòng sau:"
+
+#: libs/sfsi_install_uninstall.php:1427 libs/sfsi_install_uninstall.php:1452
+msgid "Go to your theme editor: "
+msgstr "Đến mục chỉnh sửa chủ đề:"
+
+#: libs/sfsi_install_uninstall.php:1427
+msgid "Error : Please fix your theme to make plugins work correctly. Go to the Theme Editor and insert the following string:"
+msgstr "Lỗi: Hãy sửa lại phông chủ đề để chương trình có thể chạy bình thường. Vào mục chỉnh sửa chủ đề và chèn chuỗi kí tự sau:"
+
+#: views/sfsi_option_view1.php:270
+msgid "Visit Houzz"
+msgstr "Truy cập Houzz"
+
+#: views/sfsi_option_view1.php:114
+msgid "Everybody uses email – that’s why it’s much more effective than social media to make people follow you"
+msgstr "Ai cũng có email - sử dụng email để mọi người theo dõi bạn hiệu quả hơn mạng xã hội"
+
+#: views/sfsi_option_view1.php:78
+msgid "RSS stands for Really Simply Syndication and is an easy way for people to read your content. "
+msgstr "RSS viết tắt cho Really Simply Syndication (Chia sẻ thông tin một cách đơn giản) và là một cách dễ dàng để mọi người có để đọc nội dung trang web của bạn."
+
+#: views/sfsi_option_view1.php:80
+msgid "Learn more about RSS"
+msgstr "Tìm hiểu thêm về RSS"
+
+#: views/sfsi_options_view.php:255
+msgid "Visit us on ultimatelysocial.com"
+msgstr "Ghé thăm chúng tôi tại ultimatelysocial.com"
+
+#: views/sfsi_option_view5.php:506
+msgid "Drag and Drop"
+msgstr "Kéo và thả"
+
+#: views/sfsi_option_view5.php:511
+msgid "Size and spacing of your icons"
+msgstr "Kích cỡ và khoảng cách giữa các biểu tượng"
+
+#: views/sfsi_option_view7.php:285
+msgid "Background Color:"
+msgstr "Màu nền"
+
+#: views/sfsi_option_view7.php:307
+msgid "Border Shadow:"
+msgstr "Đổ bóng"
+
+#: views/sfsi_option_view5.php:519 views/sfsi_option_view8.php:532
+msgid "pixels wide and tall"
+msgstr "pixel cao và rộng"
+
+#: views/sfsi_option_view8.php:324
+msgid "Go to the widget area and drag & drop it where you want to have it!"
+msgstr "Vào phần widget rồi kéo và thả nó vào bất kì chỗ nào bạn muốn!"
+
+#: views/sfsi_option_view9.php:132
+msgid "Go to the widget settings and drag and drop it to the sidebar:"
+msgstr "Vào mục cài đặt widget rồi kéo và thả nó vào thanh nội dung:"
+
+#: views/sfsi_option_view7.php:193
+msgid "Text and Design"
+msgstr "Kiểu chữ và thiết kế"
+
+#: views/sfsi_option_view7.php:299
+msgid "Border Thickness:"
+msgstr "Độ dày của viền:"
+
+#: views/sfsi_option_view4.php:190
+msgid "It’s a psychological fact that people like to follow other people, so when they see that your site has already a good number of Facebook likes, it’s more likely that they will subscribe/like/share your site than if it had 0."
+msgstr "Trên thực tế, mọi người thích theo dõi nhau, nên nếu trang của bạn có một lượng thích lớn từ Facebook, khả năng cao sẽ có nhiều người đăng kí theo dõi/thích/chia sẻ trang web của bạn."
+
+#: views/sfsi_option_view4.php:193
+msgid "Therefore, you can select to display the count next to your icons which will look like this:"
+msgstr "Từ đó, bạn có thể lựa chọn để hiển thị bên cạnh các icon trông như thế này:"
+
+#: views/sfsi_option_view3.php:43
+msgid "It comes across as more professional and gives your site more “credit”"
+msgstr "Trang web của bạn sẽ trông chuyên nghiệp và \"đáng tin cậy\" hơn"
+
+#: views/sfsi_option_view3.php:51
+msgid "The icons have been compressed by Shortpixel.com for faster loading of your site. Thank you Shortpixel!"
+msgstr "Các icon đều đã được nén bơi Shortpixel.com để vận hành nhanh hơn trên trang web. Cảm ơn Shortpixel!"
+
+#: libs/sfsi_install_uninstall.php:1427 libs/sfsi_install_uninstall.php:1452
+#: views/sfsi_pop_content.php:36
+msgid "click here"
+msgstr "click vào đây"
+
+#: views/sfsi_option_view2.php:206
+msgid "For most blogs it’s http://blogname.com/feed"
+msgstr "Xem thêm blog qua http://blogname.com/feed"
+
+#: libs/sfsi_widget.php:96
+msgid "Please go to the plugin page to set your preferences:"
+msgstr "Hãy đến trang cài đặt plugin để điều chỉnh theo sở thích:"
+
+#: libs/sfsi_widget.php:97 views/sfsi_option_view8.php:326
+#: views/sfsi_option_view9.php:134
+msgid "Click here"
+msgstr "Click vào đây"
+
+#: views/sfsi_pop_content.php:423
+msgid "Click on << Insert into post >>"
+msgstr "Click vào << Chèn vào bài >>"
+
+#: views/sfsi_pop_content.php:70
+msgid "Click on << Insert into post >> "
+msgstr "Click vào << Chèn vào bài>>"
+
+#: views/sfsi_pop_content.php:64 views/sfsi_pop_content.php:417
+msgid "Click on << Upload >> below"
+msgstr "Nhấn vào nút << Tải lên >> bên dưới"
+
+#: views/sfsi_pop_content.php:350
+msgid "Note: Also if you already offer a newsletter it makes sense to offer this option too, because it will get you more readers as explained"
+msgstr "Chú ý: Nếu bạn cho phép đăng kí nhận thư thông tin thì bạn cũng nên cung cấp tùy chọn này, vì nó sẽ giúp bạn thu hút nhiều người đọc hơn"
+
+#: views/sfsi_pop_content.php:357
+msgid "Ok, keep it active for the time being, I want to see how it works"
+msgstr "Được rồi, hãy để nó hoạt động một thời gian, tôi muốn xem nó hoạt động thế nào "
+
+#: views/sfsi_option_view9.php:130
+msgid "Widget:"
+msgstr "Widget"
+
+#: views/sfsi_option_view9.php:139
+msgid "Shortcode:"
+msgstr "Code ngắn"
+
+#: views/sfsi_option_view8.php:269
+msgid "Top:"
+msgstr "Lên trên"
+
+#: views/sfsi_option_view4.php:503
+msgid "Go to"
+msgstr "Đến"
+
+#: views/sfsi_option_view4.php:412
+msgid "Retrieve the number of likes of your blog"
+msgstr "Lấy số lượng like blog của bạn"
+
+#: views/sfsi_option_view4.php:420
+msgid "page ID:"
+msgstr "ID trang"
+
+#: views/sfsi_option_view4.php:495
+msgid "Please make sure you have entered the Username for \"Follow me on Twitter:\" in twitter settings under question number 2."
+msgstr "Hãy chắc chắn rằng bạn đã nhập Tên truy cập cho phần \"Theo dõi tôi trên Twitter;\" trong mục cài đặt twitter của câu hỏi số 2."
+
+#: views/sfsi_option_view3.php:46
+msgid "A smart automatic animation can make your visitors aware of your icons in an unintrusive manner"
+msgstr "Hình ảnh thông minh tự động sẽ giúp những người đến thăm trang của bạn chú ý đến các icon, mà không làm phiền họ."
+
+#: views/sfsi_aboutus.php:4
+msgid "or write to us at"
+msgstr "hoặc viết cho chúng tôi tại"
+
+#: ultimate_social_media_icons.php:143
+msgid "Kindly go to setting page and check the option \"Place them manually\""
+msgstr "Hãy vào mục cài đặt trang và đánh dấu mục \"Đặt bằng tay\""
+
+#: libs/sfsi_install_uninstall.php:1518
+msgid "I already did"
+msgstr "Tôi đã làm"
+
+#: libs/sfsi_install_uninstall.php:1310
+msgid "Error: It seems that CURL is disabled on your server. Please contact your server administrator to install / enable CURL."
+msgstr "Lỗi: Có vẻ như CURL đã ngừng kích hoạt trên máy chủ của bạn. Hãy liên hệ với người quản lý máy chủ để cài đặt / kích hoạt CURL"
+
+#: libs/sfsi_Init_JqueryCss.php:59
+msgid "Saving"
+msgstr "Tiết kiệm"
+
+#: libs/sfsi_Init_JqueryCss.php:60
+msgid "Saved"
+msgstr "Lưu"
+
+#: views/sfsi_option_view5.php:649
+msgid "Language & Button-text"
+msgstr "Ngôn ngữ & Chữ-phím"
+
+#: views/sfsi_option_view5.php:654
+msgid "Follow-button:"
+msgstr "Phím theo dõi:"
+
+#: views/sfsi_option_view5.php:675
+msgid "Facebook «Visit»-icon:"
+msgstr "Facebook «Đến»-icon:"
+
+#: views/sfsi_option_view5.php:696
+msgid "Twitter «Visit»-icon:"
+msgstr "Twitter «Đến»-icon:"
+
+#: views/sfsi_option_view4.php:608
+msgid "Enter Youtube Channel id"
+msgstr "Nhập ID kênh Youtube"
+
+#: views/sfsi_pop_content.php:764
+msgid "I'm done!"
+msgstr "Hoàn thành!"
+
+#: views/sfsi_pop_content.php:361
+msgid "Deactivate it"
+msgstr "Hủy kích hoạt"
+
+#: views/sfsi_pop_content.php:67 views/sfsi_pop_content.php:420
+msgid "Upload the icon into the media gallery"
+msgstr "Tải icon vào bộ sưu tập"
+
+#: views/sfsi_pop_content.php:210
+msgid "Move over the Facebook-icon…"
+msgstr "Di chuyển icon Facebook..."
+
+#: views/sfsi_pop_content.php:245
+msgid "Move over the Twitter-icon…"
+msgstr "Di chuyển icon Twitter..."
+
+#: views/sfsi_pop_content.php:274
+msgid "Move over the YouTube-icon…"
+msgstr "Di chuyển icon Youtube..."
+
+#: views/sfsi_pop_content.php:297
+msgid "Move over the Pinterest-icon…"
+msgstr "Di chuyển icon Pinterest..."
+
+#: views/sfsi_pop_content.php:326
+msgid "Move over the LinkedIn-icon…"
+msgstr "Di chuyển icon LinkedIn..."
+
+#: views/sfsi_pop_content.php:395
+msgid "Ok, activate link"
+msgstr "Kích hoạt đường dẫn"
+
+#: views/sfsi_pop_content.php:411
+msgid "Upload custom icons"
+msgstr "Tải lên icon tùy chọn"
+
+#: views/sfsi_pop_content.php:414
+msgid "Here you can upload custom icons which perform the same actions as the standard icons."
+msgstr "Tại đây bạn có thể tải lên icon tùy chọn, nó sẽ hoạt động giống như icon có sẵn."
+
+#: views/sfsi_options_view.php:170
+msgid "What design and animation do you want to give your icons?"
+msgstr "Bạn có muốn thêm thiết kế hay hình động cho icon không?"
+
+#: views/sfsi_options_view.php:197
+msgid "Do you want to display a pop-up, asking people to subscribe?"
+msgstr "Bạn có muốn hiển bị pop-up, mời mọi người đăng kí theo dõi?"
+
+#: views/sfsi_options_view.php:204
+msgid "Do you want to show a subscription form (increases sign ups)?"
+msgstr "Bạn có muốn hiển thị mẫu đơn đăng kí (tăng lượt người theo dõi)?"
+
+#: views/sfsi_options_view.php:253
+msgid "Need top-notch Wordpress development work at a competitive price?"
+msgstr "Cần người xuất sắc để phát triển Wordpress với giá cạnh tranh?"
+
+#: views/sfsi_pop_content.php:60
+msgid "Steps:"
+msgstr "Các bước:"
+
+#: views/sfsi_options_view.php:184
+msgid "Any other wishes for your main icons?"
+msgstr "Bạn còn muốn chỉnh sửa thêm cho icon của bạn không?"
+
+#: views/sfsi_options_view.php:177
+msgid "Do you want to display \"counts\" next to your main icons?"
+msgstr "Bạn có muốn hiển thị \"số lượng\" bên cạnh icon không? "
+
+#: views/sfsi_options_view.php:165
+msgid "Optional"
+msgstr "Tùy chọn thêm"
+
+#: views/sfsi_options_view.php:9
+msgid "We found errors in your javascript which may cause the plugin to not work properly. Please fix the error:"
+msgstr "Xuất hiện lỗi với javascript khiến chương trình không hoạt động được bình thường. Hãy sửa lỗi:"
+
+#: views/sfsi_options_view.php:75
+msgid "Welcome to the Ultimate Social Media Icons PLUS plugin!"
+msgstr "Chào mừng đến với chương trình Ultimate Social Media Icons PLUS"
+
+#: views/sfsi_option_view9.php:685
+msgid "Left Align"
+msgstr "Căn chỉnh lề trái"
+
+#: views/sfsi_option_view9.php:691
+msgid "Right Align"
+msgstr "Căn chỉnh lề phải"
+
+#: views/sfsi_options_view.php:152
+msgid "What do you want the icons to do?"
+msgstr "Bạn muốn icons thực hiện những gì?"
+
+#: views/sfsi_options_view.php:159
+msgid "Where shall they be displayed?"
+msgstr "Icon sẽ được hiển thị ở đâu?"
+
+#: views/sfsi_option_view9.php:675
+msgid "Bold"
+msgstr "Đậm"
+
+#: views/sfsi_option_view9.php:386 views/sfsi_option_view9.php:451
+#: views/sfsi_option_view9.php:543
+msgid "Alignment:"
+msgstr "Căn chỉnh lề"
+
+#: views/sfsi_option_view9.php:476
+msgid "Subscribe button"
+msgstr "Nút theo dõi"
+
+#: views/sfsi_option_view9.php:399
+msgid "Entry field"
+msgstr "Mục điền"
+
+#: views/sfsi_option_view9.php:552
+msgid "Button color:"
+msgstr "Màu nút"
+
+#: views/sfsi_option_view9.php:283
+msgid "Color"
+msgstr "Màu sắc"
+
+#: views/sfsi_option_view9.php:298
+msgid "Background color:"
+msgstr "Màu nền"
+
+#: views/sfsi_option_view9.php:350
+msgid " Font style:"
+msgstr "Phông chữ"
+
+#: views/sfsi_option_view9.php:359 views/sfsi_option_view9.php:516
+msgid "Font color"
+msgstr "Màu chữ"
+
+#: views/sfsi_option_view9.php:372 views/sfsi_option_view9.php:458
+#: views/sfsi_option_view9.php:529
+msgid "Font size"
+msgstr ""
+"Kích thước phông chữ\n"
+"Cỡ chữ"
+
+#: views/sfsi_option_view9.php:237
+msgid "Width"
+msgstr "Chiều rộng"
+
+#: views/sfsi_option_view9.php:272
+msgid "Thickness"
+msgstr "Độ dày"
+
+#: views/sfsi_option_view9.php:249
+msgid "Border?"
+msgstr "Khung?"
+
+#: views/sfsi_option_view8.php:631 views/sfsi_option_view8.php:662
+#: views/sfsi_option_view8.php:690 views/sfsi_option_view9.php:232
+#: views/sfsi_option_view9.php:242 views/sfsi_option_view9.php:278
+#: views/sfsi_option_view9.php:378 views/sfsi_option_view9.php:464
+#: views/sfsi_option_view9.php:535
+msgid "pixels"
+msgstr "pixel"
+
+#: views/sfsi_option_view5.php:660 views/sfsi_option_view5.php:681
+#: views/sfsi_option_view5.php:702 views/sfsi_option_view9.php:111
+msgid "Preview:"
+msgstr "Xem trước:"
+
+#: views/sfsi_option_view9.php:226
+msgid "Height"
+msgstr "Chiều cao"
+
+#: views/sfsi_option_view9.php:150
+msgid "Copy & paste HTML code:"
+msgstr "Sao chép và dán mã HTML:"
+
+#: views/sfsi_option_view9.php:164 views/sfsi_option_view9.php:703
+msgid "Get new posts by email:"
+msgstr "Nhận bài viết mới qua email:"
+
+#: views/sfsi_option_view9.php:124
+msgid "You can place the form by different methods:"
+msgstr "Bạn có thể đặt đơn đăng kí theo nhiều cách:"
+
+#: views/sfsi_option_view9.php:142
+msgid "Use the shortcode"
+msgstr "Sử dụng code ngắn"
+
+#: views/sfsi_option_view9.php:146
+msgid "to place it into your codes"
+msgstr "để đặt nó vào code của bạn"
+
+#: views/sfsi_option_view9.php:188
+msgid "Define text & design (optional)"
+msgstr "Văn bản và thiết kế (tùy chọn)"
+
+#: views/sfsi_option_view9.php:191
+msgid "Overall size & border"
+msgstr "Kích cỡ và khung"
+
+#: views/sfsi_option_view8.php:207
+msgid "Bottom right"
+msgstr "Dưới bên phải"
+
+#: views/sfsi_option_view8.php:806
+msgid "Center"
+msgstr "Trung tâm"
+
+#: views/sfsi_option_view8.php:287
+msgid "Left:"
+msgstr "Trái"
+
+#: views/sfsi_option_view8.php:296
+msgid "Right:"
+msgstr "Phải"
+
+#: views/sfsi_option_view8.php:264
+msgid "Margin From:"
+msgstr "Lề từ:"
+
+#: views/sfsi_option_view8.php:278
+msgid "Bottom:"
+msgstr "Phía dưới"
+
+#: views/sfsi_option_view8.php:341
+msgid "Place them manually"
+msgstr "Tự đặt bằng tay"
+
+#: views/sfsi_option_view8.php:467
+msgid "Select the icons you want to show:"
+msgstr "Lựa chọn icon bạn muốn hiển thị:"
+
+#: views/sfsi_option_view8.php:737
+msgid "Display them:"
+msgstr "Hiển thị:"
+
+#: views/sfsi_option_view8.php:740
+msgid "On Post Pages"
+msgstr "Trên bài đăng"
+
+#: views/sfsi_option_view8.php:746 views/sfsi_option_view8.php:768
+msgid "Before posts"
+msgstr "Trước bài đăng"
+
+#: views/sfsi_option_view8.php:752 views/sfsi_option_view8.php:774
+msgid "After posts"
+msgstr "Sau bài đăng"
+
+#: views/sfsi_option_view8.php:762
+msgid "On Homepage"
+msgstr "Trên trang chủ"
+
+#: views/sfsi_option_view8.php:424
+msgid "Show them before or after posts"
+msgstr "Hiển thị trước hoặc sau bài đăng"
+
+#: views/sfsi_option_view8.php:158
+msgid "Top left"
+msgstr "Trên bên trái"
+
+#: views/sfsi_option_view8.php:172
+msgid "Top right"
+msgstr "Trên bên phải"
+
+#: views/sfsi_option_view8.php:193
+msgid "Bottom left"
+msgstr "Dưới bên trái"
+
+#: views/sfsi_option_view7.php:329
+msgid "Where shall the pop-up be shown?"
+msgstr "Pop-up sẽ hiển thị ở đâu?"
+
+#: views/sfsi_option_view7.php:334
+msgid "Nowhere"
+msgstr "Không ở đâu"
+
+#: views/sfsi_option_view7.php:340
+msgid "On every page"
+msgstr "Trên tất cả các trang"
+
+#: views/sfsi_option_view7.php:346
+msgid "On blog posts only"
+msgstr "Trên bài đăng post"
+
+#: views/sfsi_option_view7.php:352
+msgid "On selected pages only"
+msgstr "Trên trang tự chọn"
+
+#: views/sfsi_option_view7.php:403
+msgid "When shall the pop-up be shown?"
+msgstr "Khi nào pop-up hiển thị?"
+
+#: views/sfsi_option_view7.php:408
+msgid "Once"
+msgstr "Một lần"
+
+#: views/sfsi_option_view7.php:410
+msgid "seconds after the user arrived on the site"
+msgstr "Vài giây sau khi người dùng đến trang web"
+
+#: views/sfsi_option_view8.php:314
+msgid "Show them via a widget"
+msgstr "Hiển thị qua widget"
+
+#: views/sfsi_option_view8.php:179
+msgid "Center left"
+msgstr "Giữa chếch trái"
+
+#: views/sfsi_option_view8.php:186
+msgid "Center right"
+msgstr "Giữa chếch phải"
+
+#: views/sfsi_option_view7.php:319
+msgid "Off"
+msgstr "Tắt"
+
+#: views/sfsi_option_view7.php:313
+msgid "On"
+msgstr "Bật"
+
+#: views/sfsi_option_view7.php:291
+msgid "Border Color:"
+msgstr "Màu khung:"
+
+#: views/sfsi_option_view7.php:269
+msgid "Font color:"
+msgstr "Màu chữ"
+
+#: views/sfsi_option_view7.php:274
+msgid "Font size:"
+msgstr "Cỡ chữ"
+
+#: views/sfsi_option_view7.php:281
+msgid "Icon Box Layout"
+msgstr "Bố cục thanh icon"
+
+#: views/sfsi_option_view9.php:666
+msgid "Inherit"
+msgstr "Kế thừa"
+
+#: views/sfsi_option_view9.php:672
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: views/sfsi_option_view9.php:669
+msgid "Oblique"
+msgstr "Chếch"
+
+#: views/sfsi_option_view9.php:663
+msgid "Normal"
+msgstr "Bình thường"
+
+#: views/sfsi_option_view7.php:250 views/sfsi_option_view9.php:430
+#: views/sfsi_option_view9.php:507
+msgid "Font style:"
+msgstr "Kiểu chữ:"
+
+#: views/sfsi_option_view7.php:204 views/sfsi_option_view9.php:344
+#: views/sfsi_option_view9.php:424 views/sfsi_option_view9.php:501
+msgid "Font:"
+msgstr "Kiểu chữ"
+
+#: views/sfsi_option_view6.php:96
+msgid "NO"
+msgstr "Không"
+
+#: libs/controllers/sfsi_frontpopUp.php:118
+msgid "Enjoy this site? Please follow and like us!"
+msgstr "Thích trang này chứ? Hãy theo dõi và like chúng tôi!"
+
+#: views/sfsi_option_view7.php:197
+msgid "Text Options"
+msgstr "Tùy chọn văn bản"
+
+#: views/sfsi_option_view7.php:200 views/sfsi_option_view9.php:331
+#: views/sfsi_option_view9.php:411 views/sfsi_option_view9.php:488
+msgid "Text:"
+msgstr "Văn bản"
+
+#: views/sfsi_option_view6.php:40
+msgid "Those are usually all you need:"
+msgstr "Đó thường là những gì bạn cần:"
+
+#: views/sfsi_option_view6.php:48
+msgid "Share-button covers all other platforms for sharing"
+msgstr "Share-button là nơi bao gồm tất cả các hoạt động chia sẻ diễn ra"
+
+#: views/sfsi_option_view6.php:53
+msgid "So: do you want to display those at the end of every post?"
+msgstr "Vậy bạn có muốn hiển thị tất cả các icon này vào cuối mỗi bài đăng?"
+
+#: views/sfsi_option_view6.php:73
+msgid "Options:"
+msgstr "Tùy chọn:"
+
+#: views/sfsi_option_view6.php:77 views/sfsi_option_view8.php:784
+msgid "Text to appear before the sharing icons:"
+msgstr "Văn bản hiện trước các icon được chia sẻ:"
+
+#: views/sfsi_option_view6.php:82 views/sfsi_option_view8.php:795
+msgid "Alignment of share icons:"
+msgstr "Căn lề cho các icon chia sẻ:"
+
+#: views/sfsi_option_view6.php:94
+msgid "YES"
+msgstr "Có"
+
+#: views/sfsi_option_view6.php:44
+msgid "Facebook is No.1 in liking, so it’s a must have"
+msgstr "Facebook là mạng xã hội được yêu thích nhất, nên chắc chắc phải có"
+
+#: views/sfsi_option_view6.php:92
+msgid "Do you want to display the counts?"
+msgstr "Bạn có muốn hiển thị số lượng không?"
+
+#: views/sfsi_option_view5.php:916
+msgid "Sticking & Disable on mobile"
+msgstr "Đính và Ngưng kích hoạt trên điện thoại"
+
+#: views/sfsi_option_view5.php:919
+msgid "If you decided to show your icons via a widget, you can add the effect that when the user scrolls down, the icons will stick at the  top of the screen so that they are still displayed even if the user scrolled all the way down. Do you want to do that?"
+msgstr "Nếu bạn quyết định hiển thị icon qua widget, bạn có thể thêm hiệu ứng để khi người dùng kéo xuống dưới, icon sẽ luôn được đính ở đầu màn hình hiển thị. Như vậy người dùng có thể nhìn thấy các icon mặc dù vẫn đang kéo xuống cuối trang. Bạn muốn sử dụng không?"
+
+#: views/sfsi_option_view5.php:942
+msgid "Disable float icons on mobile devices"
+msgstr "Ngưng kích hoạt icon nổi trên điện thoại"
+
+#: views/sfsi_option_view5.php:964
+msgid "Disable auto-scaling feature for mobile devices (\"viewport\" meta tag)"
+msgstr "Ngừng kích hoạt tự động điều chỉnh tỉ lệ trên điện thoại (\"viewport\" meta tag)"
+
+#: views/sfsi_option_view5.php:991
+msgid "If you’ve given your icon only one function (i.e. no pop-up where user can perform different actions) then you can define here what text will be displayed if a user moves his mouse over the icon:"
+msgstr "Nếu mỗi icon chỉ có một chức năng (không sử dụng pop-up và người dùng có để thực hiện các thao tác khác nhau) vậy bạn có thể xác định những gì văn bản sẽ được hiển thị khi người dùng di chuyển chuột của mình qua icon:"
+
+#: views/sfsi_option_view5.php:988
+msgid "Mouseover text"
+msgstr "Hiển thị khi di chuột"
+
+#: views/sfsi_option_view5.php:888
+msgid "New window"
+msgstr "Cửa sổ mới"
+
+#: views/sfsi_option_view5.php:574
+msgid "Icons per row:"
+msgstr "Số icon mỗi dòng:"
+
+#: views/sfsi_option_view5.php:569 views/sfsi_option_view6.php:85
+#: views/sfsi_option_view8.php:800
+msgid "Left"
+msgstr "Trái"
+
+#: views/sfsi_option_view5.php:526 views/sfsi_option_view8.php:273
+#: views/sfsi_option_view8.php:282 views/sfsi_option_view8.php:291
+#: views/sfsi_option_view8.php:300 views/sfsi_option_view8.php:536
+msgid "Pixels"
+msgstr "Pixels"
+
+#: views/sfsi_option_view5.php:563 views/sfsi_option_view8.php:723
+#: views/sfsi_option_view9.php:688
+msgid "Centered"
+msgstr "Trung tâm"
+
+#: views/sfsi_option_view5.php:522 views/sfsi_option_view8.php:534
+msgid "Spacing between icons:"
+msgstr "Khoảng cách giữa các icon:"
+
+#: views/sfsi_option_view5.php:549
+msgid "Alignments"
+msgstr "Căn chỉnh lề"
+
+#: views/sfsi_option_view5.php:554
+msgid "Alignment of icons:"
+msgstr "Căn chỉnh lề các icon:"
+
+#: views/sfsi_option_view5.php:566 views/sfsi_option_view6.php:87
+#: views/sfsi_option_view8.php:803
+msgid "Right"
+msgstr "Phải"
+
+#: views/sfsi_option_view5.php:515 views/sfsi_option_view8.php:530
+msgid "Size:"
+msgstr "Kích thước:"
+
+#: views/sfsi_option_view4.php:499
+msgid "To get this information:"
+msgstr "Để có được thông tin này:"
+
+#: views/sfsi_option_view4.php:509
+msgid "Click on \"Create new app\""
+msgstr "Click vào \"Tạo app mới\""
+
+#: views/sfsi_option_view4.php:512
+msgid "Enter a random Name, Description and Website URL (including the \"http://\", e.g. http://dummysitename.com)"
+msgstr "Nhập tên, mô tả và đường dẫn trang web (bao gồm :\"http://\", ví dụ http://dummysitename.com)"
+
+#: views/sfsi_option_view4.php:515
+msgid "Go to \"Keys and Access Tokens\" tab and click on \"Generate Token\" in the \"Token actions\" section at the bottom"
+msgstr "Tới thẻ \"Keys and Access Tokens\" và click vào \"Generate Token\" trong mục \"Token actions\" ở cuối trang"
+
+#: views/sfsi_option_view4.php:596
+msgid "Retrieve the number of Subscribers"
+msgstr "Lấy số lượng người theo dõi"
+
+#: views/sfsi_option_view4.php:601
+msgid "Enter Youtube User name"
+msgstr "Nhập tên truy cập Youtube"
+
+#: views/sfsi_option_view4.php:642
+msgid "Retrieve the number of Pins"
+msgstr "Lấy số lượng bài ghim"
+
+#: views/sfsi_option_view4.php:681
+msgid "Retrieve the number of Instagram followers"
+msgstr "Lấy số lượng người theo dõi trên Instagram"
+
+#: views/sfsi_option_view4.php:687
+msgid "Enter Instagram User name"
+msgstr "Nhập trên truy cập Instagram"
+
+#: views/sfsi_option_view5.php:387
+msgid "Order of your icons"
+msgstr "Trật tự các icon"
+
+#: views/sfsi_option_view4.php:518
+msgid "Then click on \"Test OAuth\" at the top right and you will see the 4 token key"
+msgstr "Rồi click vào \"Test OAuth\" ở trên cùng tay phải, và bạn sẽ thấy 4 token key"
+
+#: views/sfsi_option_view4.php:385 views/sfsi_option_view4.php:430
+#: views/sfsi_option_view4.php:524 views/sfsi_option_view4.php:569
+#: views/sfsi_option_view4.php:615 views/sfsi_option_view4.php:647
+#: views/sfsi_option_view4.php:735 views/sfsi_option_view4.php:764
+#: views/sfsi_option_view4.php:793 views/sfsi_option_view4.php:822
+#: views/sfsi_option_view4.php:851 views/sfsi_option_view4.php:880
+#: views/sfsi_option_view4.php:909 views/sfsi_option_view4.php:938
+msgid "Enter the figure manually"
+msgstr "Nhập số lượng bằng tay"
+
+#: views/sfsi_option_view4.php:464
+msgid "Retrieve the number of Twitter followers"
+msgstr "Lấy số lượng người theo dõi Twitter"
+
+#: views/sfsi_option_view4.php:470
+msgid "Enter Consumer Key"
+msgstr "Nhập Consumer Key"
+
+#: views/sfsi_option_view4.php:476
+msgid "Enter Consumer Secret"
+msgstr "Nhập Consumer Secret"
+
+#: views/sfsi_option_view4.php:482
+msgid "Enter Access Token"
+msgstr "Nhập Access Token"
+
+#: views/sfsi_option_view4.php:488
+msgid "Enter Access Token Secret"
+msgstr "Nhập Access Token Secret"
+
+#: views/sfsi_option_view4.php:331
+msgid "Please specify which counts should be shown:"
+msgstr "Ghi cụ thể số lượng nào sẽ được hiển thị"
+
+#: views/sfsi_option_view4.php:353
+msgid "We cannot track this. So enter the figure here:"
+msgstr "Chúng tôi không theo dõi được. Nên hãy nhập số lượng vào đây"
+
+#: views/sfsi_option_view4.php:381
+msgid "Retrieve the number of subscribers automatically"
+msgstr "Tự động lấy số lượng đăng kí theo dõi"
+
+#: views/sfsi_option_view4.php:296 views/sfsi_option_view5.php:905
+#: views/sfsi_option_view5.php:933 views/sfsi_option_view5.php:954
+#: views/sfsi_option_view5.php:976 views/sfsi_option_view6.php:65
+#: views/sfsi_option_view9.php:217 views/sfsi_option_view9.php:263
+msgid "No"
+msgstr "Không"
+
+#: views/sfsi_option_view4.php:280
+msgid "Of course, if you start at 0, you shoot yourself in the foot with that. So we suggest that you only turn this feature on once you have a good number of followers/likes/shares (min. of 20 – no worries if it’s not too many, it should just not be 0)."
+msgstr "Nếu bạn bắt đầu bằng cón số 0, bạn đang tự hại bản thân. Nên chúng tôi khuyên bạn chỉ nên sử dụng tính năng này khi bạn đã có một số lượng khá người theo dõi/like/chia sẻ ( ít nhất khoảng 20 - đừng quá lo lắng nếu nó không quá nhiều, chỉ cần không phải là 0 thì sẽ ổn)"
+
+#: views/sfsi_option_view4.php:283
+msgid "Enough waffling. So do you want to display counts?"
+msgstr "Nói xong rồi. Giờ bạn có muốn hiển thị số lượng không?"
+
+#: views/sfsi_option_view4.php:290 views/sfsi_option_view5.php:899
+#: views/sfsi_option_view5.php:927 views/sfsi_option_view5.php:948
+#: views/sfsi_option_view5.php:970 views/sfsi_option_view6.php:59
+#: views/sfsi_option_view9.php:210 views/sfsi_option_view9.php:256
+msgid "Yes"
+msgstr "Có"
+
+#: views/sfsi_option_view3.php:462
+msgid "Custom Icons"
+msgstr "Các biểu tượng tùy chỉnh"
+
+#: views/subviews/que4/animatethem.php:111
+msgid "seconds"
+msgstr "giây"
+
+#: views/sfsi_option_view3.php:432
+msgid "Shaded Dark"
+msgstr "Đổ bóng tối"
+
+#: views/sfsi_option_view3.php:440
+msgid "Shaded Light"
+msgstr "Đổ bóng sáng"
+
+#: views/sfsi_option_view3.php:449
+msgid "Transparent"
+msgstr "Trong suốt"
+
+#: views/sfsi_option_view3.php:450
+msgid "for dark backgrounds"
+msgstr "cho nền tối"
+
+#: views/subviews/que4/animatethem.php:9
+msgid "Mouse-Over effects"
+msgstr "Hiệu ứng Mouse-over"
+
+#: views/subviews/que4/animatethem.php:22
+msgid "Fade In"
+msgstr "Mờ dần"
+
+#: views/subviews/que4/animatethem.php:38
+msgid "Combo"
+msgstr "Kết hợp"
+
+#: views/subviews/que4/animatethem.php:100
+msgid "Shuffle them automatically"
+msgstr "Tự động tráo"
+
+#: views/subviews/que4/animatethem.php:109
+msgid "Every"
+msgstr "Mỗi"
+
+#: views/subviews/que4/animatethem.php:4
+msgid "Animate them (your main icons)"
+msgstr "cổ vũ chúng ( icon chính của bạn)"
+
+#: views/sfsi_option_view3.php:413
+msgid "Black"
+msgstr "Màu đen"
+
+#: views/sfsi_option_view3.php:424
+msgid "Silver"
+msgstr "Màu bạc"
+
+#: views/sfsi_option_view3.php:405
+msgid "Glossy"
+msgstr "Bóng"
+
+#: views/sfsi_option_view3.php:397
+msgid "Crystal"
+msgstr "Trong"
+
+#: views/sfsi_option_view3.php:88 views/sfsi_option_view8.php:674
+msgid "Flat"
+msgstr "Phẳng"
+
+#: views/sfsi_option_view3.php:389
+msgid "Orange"
+msgstr "Màu da cam"
+
+#: views/sfsi_option_view3.php:331
+msgid "Thin"
+msgstr "Mỏng"
+
+#: views/sfsi_option_view3.php:341
+msgid "Cute"
+msgstr "Đáng yêu"
+
+#: views/sfsi_option_view3.php:352
+msgid "Cubes"
+msgstr "Hình khối"
+
+#: views/sfsi_option_view3.php:361
+msgid "Chrome Blue"
+msgstr "Xanh Chrome"
+
+#: views/sfsi_option_view3.php:369
+msgid "Chrome Grey"
+msgstr "Xám Chrome"
+
+#: views/sfsi_option_view3.php:377
+msgid "Splash"
+msgstr "Bắn"
+
+#: views/sfsi_option_view2.php:557
+msgid "The LinkedIn icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Icon LinkedIn có thể thực hiện nhiều thao tác. Hãy chọn từ phía dưới những gì bạn muốn. Nếu bạn chọn nhiều thao tác, thì người dùng có thể chọn giữa các thao tác mà họ muốn."
+
+#: views/sfsi_option_view2.php:571
+msgid "Visit my Linkedin page at:"
+msgstr "Thăm trang LinkedIn của tôi tại:"
+
+#: views/sfsi_option_view2.php:589
+msgid "Share my page on LinkedIn"
+msgstr "Chia sẻ trang của tôi trên LinkedIn"
+
+#: views/sfsi_option_view2.php:601
+msgid "To find your Product or Company ID, you can use their ID lookup tool at"
+msgstr "Để tìm ID công ty và sản phẩm của bạn, bạn có thể sử dụng công cụ tra cứu ID tại"
+
+#: views/sfsi_option_view2.php:605
+msgid "You need to be logged in to Linkedin to be able to use it."
+msgstr "Bạn cần phải đăng nhập vào Linkedin để sử dụng."
+
+#: views/sfsi_option_view2.php:618
+msgid "Please provide the url to your Houzz profile (e.g. http://www.houzz.com/user/your_username)."
+msgstr "Hãy cung cấp đường dẫn đến trang cá nhân trên Houzz của bạn (ví dụ http://www.houzz.com/user/tên_truy_cập_của_bạn)."
+
+#: views/sfsi_option_view3.php:56
+msgid "Theme options"
+msgstr "Tùy chỉnh giao diện"
+
+#: views/sfsi_option_view3.php:63
+msgid "Default"
+msgstr "Mặc định"
+
+#: views/sfsi_option_view2.php:596
+msgid "Recommend my business or product on Linkedin"
+msgstr "Giới thiệu về công ty và sản phẩm của tôi trên LinkedIn"
+
+#: views/sfsi_option_view2.php:566
+msgid "The LinkedIn icon should allow users to..."
+msgstr "Icon LinkedIn cho phép người dùng ..."
+
+#: views/sfsi_option_view2.php:835
+msgid "Link:"
+msgstr "Liên kết "
+
+#: views/sfsi_option_view2.php:831
+msgid "Where do you want this icon to link to?"
+msgstr "Bạn muốn icon này liên kết tới đâu?"
+
+#: views/sfsi_option_view2.php:580
+msgid "Follow me on Linkedin:"
+msgstr "Theo dõi tôi trên Linkedin:"
+
+#: views/sfsi_option_view2.php:457
+msgid "User Name"
+msgstr "Tên đăng nhập"
+
+#: views/sfsi_option_view2.php:542
+msgid "URL"
+msgstr "Đường dẫn"
+
+#: views/sfsi_option_view2.php:419
+msgid "The Youtube icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Icon Youtube có thể thực hiện nhiều thao tác. Hãy chọn từ phía dưới những gì bạn muốn. Nếu bạn chọn nhiều thao tác, thì người dùng có thể chọn giữa các thao tác mà họ muốn.\t"
+
+#: views/sfsi_option_view2.php:435
+msgid "Subscribe to me on Youtube"
+msgstr "Theo dõi tôi trên Youtube"
+
+#: views/sfsi_option_view2.php:462
+msgid "Channel Id"
+msgstr "ID kênh"
+
+#: views/sfsi_option_view2.php:468
+msgid "UserName:"
+msgstr "Tên truy cập:"
+
+#: views/sfsi_option_view2.php:478
+msgid "Channel Id:"
+msgstr "ID kênh"
+
+#: views/sfsi_option_view2.php:498
+msgid "The Pinterest icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Icon Pinterest có thể thực hiện nhiều thao tác. Hãy chọn từ phía dưới những gì bạn muốn. Nếu bạn chọn nhiều thao tác, thì người dùng có thể chọn giữa các thao tác mà họ muốn."
+
+#: views/sfsi_option_view2.php:504
+msgid "The Pinterest icon should allow users to..."
+msgstr "Icon Pinterest cho phép người dùng..."
+
+#: views/sfsi_option_view2.php:517
+msgid "Pin my blog on Pinterest (+1)"
+msgstr "Ghim blog của tôi trên Pinterest (+1)"
+
+#: views/sfsi_option_view2.php:538
+msgid "When clicked on, users will get directed to your Instagram page"
+msgstr "Khi click vào, người dùng sẽ được đưa đến trang Instagram của bạn"
+
+#: views/sfsi_option_view2.php:509
+msgid "Visit my Pinterest page at:"
+msgstr "Ghé thăm trang Pinterest của tôi tại:"
+
+#: views/sfsi_option_view2.php:429
+msgid "Visit my Youtube page at:"
+msgstr "Ghé thăm trang Youtube của tôi tại:"
+
+#: views/sfsi_option_view1.php:186 views/sfsi_option_view2.php:415
+msgid "Youtube"
+msgstr "YouTube"
+
+#: libs/sfsi_Init_JqueryCss.php:65 views/sfsi_option_view1.php:440
+#: views/sfsi_option_view1.php:489 views/sfsi_option_view1.php:518
+msgid "Upload a custom icon if you have other accounts/websites you want to link to."
+msgstr "Tải lên một icon tự chọn nếu bạn có tài khoản trên các trang khác mà bạn muốn dẫn tới."
+
+#: views/sfsi_option_view1.php:692 views/sfsi_option_view2.php:868
+#: views/sfsi_option_view3.php:663 views/sfsi_option_view4.php:1004
+#: views/sfsi_option_view5.php:1167 views/sfsi_option_view6.php:114
+#: views/sfsi_option_view7.php:457 views/sfsi_option_view8.php:879
+#: views/sfsi_option_view9.php:584
+msgid "Collapse area"
+msgstr "Giấu"
+
+#: views/sfsi_option_view2.php:198
+msgid "When clicked on, users can subscribe via RSS"
+msgstr "Khi click vào, người dùng có thể theo dõi qua RSS"
+
+#: views/sfsi_option_view2.php:226
+msgid "Please pick which icon type you want to use:"
+msgstr "Hãy chọn loại icon bạn muốn dùng:"
+
+#: views/sfsi_option_view2.php:233
+msgid "Email icon"
+msgstr "Email icon"
+
+#: views/sfsi_option_view2.php:317 views/sfsi_option_view2.php:370
+#: views/sfsi_option_view2.php:421 views/sfsi_option_view2.php:500
+#: views/sfsi_option_view2.php:559
+msgid "see an example"
+msgstr "xem ví dụ"
+
+#: views/sfsi_option_view2.php:321
+msgid "The facebook icon should allow users to..."
+msgstr "Icon facebook cho phép người dùng...."
+
+#: views/sfsi_option_view2.php:367
+msgid "The Twitter icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Icon Twitter có thể thực hiện nhiều thao tác. Hãy chọn từ phía dưới những gì bạn muốn. Nếu bạn chọn nhiều thao tác, thì người dùng có thể chọn giữa các thao tác mà họ muốn."
+
+#: views/sfsi_option_view2.php:374
+msgid "The Twitter icon should allow users to..."
+msgstr "Icon Twitter cho phép người dùng..."
+
+#: views/sfsi_option_view2.php:379
+msgid "Visit me on Twitter:"
+msgstr "Thăm trang Twritter của tôi:"
+
+#: views/sfsi_option_view2.php:388
+msgid "Follow me on Twitter:"
+msgstr "Theo dõi tôi trên Twitter:"
+
+#: views/sfsi_option_view2.php:396
+msgid "Tweet about my page:"
+msgstr "Tweet về trang của tôi:"
+
+#: views/sfsi_option_view1.php:116 views/sfsi_pop_content.php:352
+msgid "learn more"
+msgstr "tìm hiểu thêm"
+
+#: views/sfsi_option_view2.php:328
+msgid "Visit my Facebook page at:"
+msgstr "Ghé thăm trang Facebook của tôi tại:"
+
+#: views/sfsi_option_view2.php:336
+msgid "Like my blog on Facebook (+1)"
+msgstr "Like blog của tôi trên Facebook (+1)"
+
+#: views/sfsi_option_view2.php:344
+msgid "Share my blog with friends (on Facebook)"
+msgstr "Chia sẻ bài đăng của tôi với bạn bè (trên Facebook)"
+
+#: views/sfsi_option_view2.php:253
+msgid "provider of the service"
+msgstr "Nhà cung cấp dịch vụ"
+
+#: views/sfsi_option_view2.php:224
+msgid "this screen"
+msgstr "Màn hình này"
+
+#: views/sfsi_option_view1.php:241 views/sfsi_option_view2.php:534
+msgid "Instagram"
+msgstr "Instagram"
+
+#: libs/sfsi_Init_JqueryCss.php:66
+msgid "It depends"
+msgstr "Tùy vào"
+
+#: views/sfsi_option_view1.php:266
+msgid "Show this icon if you have a Houzz account."
+msgstr "Hiển thị icon này nếu bạn có tài khoản Houzz"
+
+#: views/sfsi_option_view1.php:268
+msgid "Houzz is the No.1 site & community in the world of architecture and interior design."
+msgstr "Houzz là trang web và trang cộng đồng số 1 thế giời về kiến trúc là thiết kế nội thất."
+
+#: views/sfsi_option_view1.php:483 views/sfsi_option_view1.php:510
+#: views/sfsi_option_view2.php:825 views/sfsi_option_view5.php:1107
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: views/sfsi_option_view1.php:230
+msgid "Show this icon if you have a Pinterest account (and you should set up one if you publish new pictures regularly – that can increase your traffic significantly)."
+msgstr "Hiển thị icon này nếu bạn có tài khoản Pinterest ( và bạn nên đăng ký một tài khoản nếu bạn đăng ảnh thường xuyên -  nó sẽ giúp bạn tăng lượt truy cập)"
+
+#: views/sfsi_option_view1.php:205 views/sfsi_option_view2.php:553
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: views/sfsi_option_view1.php:224 views/sfsi_option_view2.php:495
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: views/sfsi_option_view1.php:191 views/sfsi_option_view1.php:210
+#: views/sfsi_option_view1.php:229 views/sfsi_option_view1.php:246
+#: views/sfsi_option_view1.php:265 views/sfsi_option_view1.php:289
+#: views/sfsi_option_view1.php:306 views/sfsi_option_view1.php:323
+#: views/sfsi_option_view1.php:340 views/sfsi_option_view1.php:357
+#: views/sfsi_option_view1.php:375 views/sfsi_option_view1.php:488
+#: views/sfsi_option_view1.php:517
+msgid "It depends:"
+msgstr "Tùy vào:"
+
+#: views/sfsi_option_view1.php:192
+msgid "Show this icon if you have a youtube account (and you should set up one if you have video content – that can increase your traffic significantly)."
+msgstr "Hiển thị icon này nếu bạn có tài khoản Youtube ( và bạn nên có một cái nếu bạn sử dụng nội dung là video - sẽ giúp tăng lượt truy cập)"
+
+#: views/sfsi_option_view1.php:211
+msgid "No.1 network for business purposes. Use this icon if you’re a LinkedInner."
+msgstr "Mạng xã hội hàng đầu cho mục đích kinh doanh . Sử dụng icon này nếu bạn là người dùng LinkedIn."
+
+#: views/sfsi_option_view2.php:362
+msgid "Twitter"
+msgstr "Twitter"
+
+#: views/sfsi_option_view1.php:72 views/sfsi_option_view1.php:103
+#: views/sfsi_option_view1.php:140 views/sfsi_option_view1.php:164
+msgid "Strongly recommended:"
+msgstr "Rất nên sử dụng:"
+
+#: views/sfsi_option_view1.php:141
+msgid "Facebook is crucial, esp. for sharing."
+msgstr "Facebook cực kì thiết yếu, nhất là trong việc chia sẻ thông tin."
+
+#: views/sfsi_option_view1.php:165
+msgid "Can have a strong promotional effect."
+msgstr "Có thể có hiệu ứng quảng cáo mạnh mẽ."
+
+#: views/sfsi_option_view1.php:144
+msgid "Facebook is the giant in the social media world, and even if you don’t have a Facebook account yourself you should display this icon, so that Facebook users can share your site on Facebook."
+msgstr "Facebook là gã khổng lồ về mạng xã hội. Kể cả bạn không có tài khoản Facebook, bạn vẫn nên cho hiển thị icon này, nhờ đó người dùng facebook có thể chia sẻ trang của bạn trên Facebook."
+
+#: views/sfsi_option_view1.php:134 views/sfsi_option_view2.php:311
+msgid "Facebook"
+msgstr "facebook"
+
+#: views/sfsi_option_view1.php:110
+msgid "Remove credit link"
+msgstr "Xóa đường dẫn bản quyền"
+
+#: views/sfsi_options_view.php:249
+msgid "here"
+msgstr "tại đây"
+
+#: views/sfsi_option_view1.php:96 views/sfsi_option_view2.php:220
+msgid "Email"
+msgstr "E-mail"
+
+#: views/sfsi_option_view1.php:75
+msgid "RSS is still popular, esp. among the tech-savvy crowd."
+msgstr "RSS cũng rất phổ biến, nhất là với hội IT"
+
+#: views/sfsi_option_view1.php:67 views/sfsi_option_view2.php:194
+msgid "RSS"
+msgstr "RSS"
+
+#: views/sfsi_aboutus.php:2
+msgid "Please visit us at"
+msgstr "Ghé thăm chúng tôi tại"
+
+#: ultimate_social_media_icons.php:631 views/sfsi_option_view5.php:534
+#: views/sfsi_option_view7.php:425
+msgid "Check it out"
+msgstr "Hãy thử xem"
+
+#: libs/sfsi_plus_subscribe_widget.php:237 libs/sfsi_widget.php:90
+msgid "Title"
+msgstr "Tiêu đề"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Social Media PLUS"
+msgstr "Ultimate Social Media PLUS"
+
+#: libs/sfsi_Init_JqueryCss.php:64 views/sfsi_options_view.php:224
+msgid "Save All Settings"
+msgstr "Lưu lại cài đặt"
+
+#: libs/sfsi_Init_JqueryCss.php:63
+msgid "Collapse"
+msgstr "Thu gọn"
+
+#: libs/sfsi_Init_JqueryCss.php:58 views/sfsi_option_view1.php:686
+#: views/sfsi_option_view2.php:863 views/sfsi_option_view3.php:658
+#: views/sfsi_option_view4.php:999 views/sfsi_option_view5.php:1162
+#: views/sfsi_option_view6.php:109 views/sfsi_option_view7.php:452
+#: views/sfsi_option_view8.php:873 views/sfsi_option_view9.php:578
+msgid "Save"
+msgstr "Lưu lại"
+
+#: libs/sfsi_Init_JqueryCss.php:57 views/sfsi_option_view1.php:84
+#: views/sfsi_option_view1.php:121 views/sfsi_option_view1.php:147
+#: views/sfsi_option_view1.php:172
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: css/images/index.php:2 css/index.php:2
+#: css/jquery-ui-1.10.4/images/index.php:2 css/jquery-ui-1.10.4/index.php:2
+#: fonts/index.php:2 images/icons_theme/black/index.php:2
+#: images/icons_theme/black2/index.php:2
+#: images/icons_theme/blackgrunge/index.php:2
+#: images/icons_theme/chrome_blue/index.php:2
+#: images/icons_theme/chrome_grey/index.php:2
+#: images/icons_theme/cool/index.php:2 images/icons_theme/index.php:2
+#: images/index.php:2 index.php:2 js/index.php:2 libs/controllers/index.php:2
+#: libs/index.php:2 views/index.php:2
+msgid "Access Denied"
+msgstr "Quyền truy cập bị từ chối"

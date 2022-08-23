@@ -1,0 +1,539 @@
+# Translation of Plugins - YITH WooCommerce Ajax Search - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Ajax Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-25 16:31:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Ajax Search - Stable (latest release)\n"
+
+#: plugin-fw/includes/class-yith-system-status.php:342
+msgid "Warning!"
+msgstr "Cảnh báo!"
+
+#: plugin-fw/includes/class-yith-system-status.php:191
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:122
+msgid "URL FOpen"
+msgstr "URL FOpen"
+
+#: plugin-fw/includes/class-yith-system-status.php:121
+msgid "OPCache Save Comments"
+msgstr "OPCach lưu Bình luận"
+
+#: plugin-fw/includes/class-yith-system-status.php:119
+msgid "GD Library"
+msgstr "Thư viện GD"
+
+#: plugin-fw/includes/class-yith-system-status.php:118
+msgid "ImageMagick Version"
+msgstr "Phiên bản ImageMagick"
+
+#: plugin-fw/includes/class-yith-system-status.php:117
+msgid "MultiByte String"
+msgstr "Chuỗi MultiByte"
+
+#: plugin-fw/includes/class-yith-system-status.php:116
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/includes/class-yith-system-status.php:115
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+#: plugin-fw/includes/class-yith-system-status.php:114
+msgid "TLS Version"
+msgstr "Phiên bản TLS"
+
+#: plugin-fw/includes/class-yith-system-status.php:113
+msgid "PHP Version"
+msgstr "Phiên bản PHP"
+
+#: plugin-fw/includes/class-yith-system-status.php:112
+msgid "Available Memory"
+msgstr "Bộ nhớ có sẵn"
+
+#: plugin-fw/includes/class-yith-system-status.php:111
+msgid "WooCommerce Version"
+msgstr "Phiên bản WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:110
+msgid "WordPress Version"
+msgstr "Phiên bản WordPress"
+
+#: plugin-fw/includes/class-yith-system-status.php:140
+#: plugin-fw/includes/class-yith-system-status.php:141
+#: plugin-fw/templates/sysinfo/system-information-panel.php:11
+msgid "System Status"
+msgstr "Trạng thái hệ thống"
+
+#: plugin-fw/includes/class-yith-system-status.php:573
+msgid "Contact your hosting company in order to enable it."
+msgstr "Liên hệ công ty hosting của bạn để bật tính năng."
+
+#: plugin-fw/includes/class-yith-system-status.php:554
+#: plugin-fw/includes/class-yith-system-status.php:560
+msgid "Contact your hosting company in order to update it."
+msgstr "Liên hệ công ty hosting của bạn để cập nhật."
+
+#: plugin-fw/includes/class-yith-system-status.php:550
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "Cập nhật lên phiên bản mới nhất để sử dụng những tính năng mới và bảo mật."
+
+#. translators: %s recommended memory amount
+#: plugin-fw/includes/class-yith-system-status.php:597
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "Để tối ưu hoá tính năng của plugin, chúng tôi đề nghị cấu hình tối thiểu %s bộ nhớ có sẵn"
+
+#: plugin-fw/includes/class-yith-system-status.php:488
+msgid "Disabled"
+msgstr "Vô hiệu hóa"
+
+#: plugin-fw/includes/class-yith-system-status.php:488
+msgid "Enabled"
+msgstr "Kích hoạt"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:22
+msgid "YITH System Information"
+msgstr "Thông số hệ thống"
+
+#: plugin-fw/templates/fields/select-buttons.php:20
+msgid "Remove All"
+msgstr "Gỡ bỏ tất cả"
+
+#: plugin-fw/templates/fields/select-buttons.php:19
+msgid "Add All"
+msgstr "Thêm tất cả"
+
+#: plugin-fw/templates/fields/date-format.php:65
+msgid "Custom:"
+msgstr "Tùy chỉnh"
+
+#: plugin-fw/includes/class-yith-dashboard.php:137
+msgctxt "Button label"
+msgid "Close"
+msgstr "Đóng"
+
+#: plugin-fw/includes/class-yith-dashboard.php:97
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "Bản cập nhật mới nhất"
+
+#: plugin-fw/includes/class-yith-dashboard.php:96
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "Xem thay đổi"
+
+#: plugin-fw/includes/class-yith-dashboard.php:63
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Có lỗi xảy ra, có thể là dòng thông tin hiện không hoạt động. Hãy thử lại sau."
+
+#: plugin-fw/includes/class-yith-dashboard.php:56
+msgid "RSS Error:"
+msgstr "Lỗi RSS:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:36
+msgid "Latest news from YITH Blog"
+msgstr "Tin tức mới nhất từ Blog YITH"
+
+#: plugin-fw/includes/class-yith-dashboard.php:35
+msgid "YITH Latest Updates"
+msgstr "Cập nhật mới nhất từ YITH"
+
+#: plugin-options/gutenberg/blocks.php:28
+msgctxt "[gutenberg]: keywords"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: plugin-options/gutenberg/blocks.php:27
+msgctxt "[gutenberg]: keywords"
+msgid "Ajax Search"
+msgstr "Tìm kiếm bằng Ajax"
+
+#: plugin-options/gutenberg/blocks.php:22
+msgctxt "[gutenberg]: block description"
+msgid "Show Ajax Search Form"
+msgstr "Hiển thị form tìm kiếm bằng Ajax"
+
+#: plugin-options/gutenberg/blocks.php:21
+msgctxt "[gutenberg]: block name"
+msgid "Ajax Search"
+msgstr "Tìm kiếm bằng Ajax"
+
+#: plugin-fw/includes/builders/gutenberg/class-yith-gutenberg.php:149
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Author of the plugin
+msgid "YITH"
+msgstr "YITH"
+
+#. Plugin URI of the plugin
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-ajax-search/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-ajax-search/"
+
+#: plugin-fw/yit-plugin.php:233
+msgid "License"
+msgstr "Giấy phép"
+
+#: plugin-fw/yit-plugin.php:229
+msgctxt "Action links"
+msgid "Settings"
+msgstr "Cài đặt"
+
+#. Description of the plugin
+msgid "<code><strong>YITH WooCommerce Ajax Search</strong></code> is the plugin that allows you to search for a specific product by inserting a few characters. Thanks to <strong>Ajax Search</strong>, users can quickly find the contents they are interested in without wasting time among site pages. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr "<code><strong>YITH WooCommerce Ajax Search</strong></code> là plugin cho phép bạn tìm kiếm một sản phẩm cụ thể bằng cách nhập một vài ký tự. Nhờ <strong> Ajax Search</strong>, người dùng có thể nhanh chóng tìm thấy nội dung họ quan tâm mà không lãng phí thời gian qua lại các trang. <a href=\"https://yithemes.com/\" target=\"_blank\">Xem thêm plugin khác cho cửa hàng thương mại điện tử của bạn trên <strong>YITH</strong></a>."
+
+#: plugin-fw/yit-plugin.php:97
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Phiên bản Premium"
+
+#: plugin-fw/yit-plugin.php:93
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: plugin-fw/yit-plugin.php:89
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: plugin-fw/yit-plugin.php:85
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "Live Demo"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:106
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Thanh toán"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:103
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "Chia sẻ với người khác"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:100
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "Những người trong đội được truy cập"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:97
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "Những thứ chúng tôi thu thập và lưu trữ"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:93
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Ngôn ngữ mẫu này bao gồm những điều cơ bản xung quanh dữ liệu cá nhân mà cửa hàng của bạn có thể thu thập, lưu trữ và chia sẻ, cũng như ai có thể có quyền truy cập vào dữ liệu đó. Tùy thuộc vào cài đặt nào được bật và những plugin bổ sung nào được sử dụng, thông tin cụ thể được chia sẻ bởi cửa hàng của bạn sẽ khác nhau. Chúng tôi khuyên bạn nên tham khảo ý kiến ​​luật sư khi quyết định tiết lộ thông tin nào về chính sách bảo mật của bạn."
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:61
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "YITH Plugins"
+
+#: plugin-fw/templates/fields/icons.php:78
+msgid "Set Default"
+msgstr "Cài đặt mặc định"
+
+#: plugin-options/settings-options.php:89
+msgid "(hours)"
+msgstr "(giờ)"
+
+#: plugin-options/settings-options.php:88
+msgid "Set the duration of transient"
+msgstr "Cài đặt thời gian transient"
+
+#: plugin-options/settings-options.php:79
+msgid "Save the results of a query in a transient"
+msgstr "Lưu kết quả tìm kiếm trong transient"
+
+#: plugin-options/settings-options.php:78
+msgid "Enable transients to cache autocomplete results"
+msgstr "Bật transient để lưu kết quả tự động tìm kiếm"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:455
+#: plugin-fw/includes/class-yit-plugin-panel.php:458
+msgid "How to install premium version"
+msgstr "Làm sao để cài đặt phiên bản premium"
+
+#: plugin-fw/templates/fields/upload.php:39
+msgid "Reset"
+msgstr "Cài đặt lại"
+
+#: templates/yith-woocommerce-ajax-search.php:19
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#: includes/widgets/class.yith-wcas-ajax-search.php:94
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: templates/admin/premium.php:249
+msgid "Premium Features"
+msgstr "Tính năng Premium"
+
+#: plugin-options/settings-options.php:65
+msgid "Maximum number of results showed within the autosuggest box."
+msgstr "Số lượng kết quả tối đa được hiển thị trong hộp đề xuất."
+
+#: plugin-options/settings-options.php:64
+msgid "Maximum number of results"
+msgstr "Số lượng kết quả tối đa"
+
+#: plugin-options/settings-options.php:51
+msgid "Minimum number of characters required to trigger autosuggest."
+msgstr "Số lượng ký tự tối thiểu cần thiết để kích hoạt đề xuất tự động."
+
+#: plugin-options/settings-options.php:50
+msgid "Minimum number of characters"
+msgstr "Số lượng ký tự tối thiểu"
+
+#: plugin-options/settings-options.php:46
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: plugin-options/settings-options.php:42
+msgid "Search submit label"
+msgstr "Hiển thị tìm kiếm"
+
+#: plugin-options/settings-options.php:38
+msgid "Search for products"
+msgstr "Tìm kiếm sản phẩm"
+
+#: plugin-options/settings-options.php:36
+#: plugin-options/settings-options.php:44
+msgid "Label for Search input field."
+msgstr "Nhãn cho ô tìm kiếm"
+
+#: plugin-options/settings-options.php:34
+msgid "Search input label"
+msgstr "Nhãn cho ô Tìm"
+
+#: plugin-options/settings-options.php:25
+msgid "General settings"
+msgstr "Cài đặt chung"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#: includes/widgets/class.yith-wcas-ajax-search.php:31
+msgid "YITH WooCommerce Ajax Product Search"
+msgstr "YITH WooCommerce tìm kiếm sản phẩm bằng Ajax"
+
+#: includes/widgets/class.yith-wcas-ajax-search.php:29
+msgid "An Ajax Search box for products only."
+msgstr "Một hộp tìm kiếm Ajax chỉ dành cho sản phẩm."
+
+#: plugin-fw/templates/fields/image-gallery.php:41
+msgid "Delete"
+msgstr "Xóa"
+
+#: plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68
+msgid "Remove"
+msgstr "Xóa"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Value"
+msgstr "Giá trị"
+
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+msgid "Name"
+msgstr "Tên"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:655
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:133
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: includes/class.yith-wcas-admin.php:134
+#: plugin-fw/includes/class-yit-plugin-panel.php:84
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:43
+msgid "Reset Defaults"
+msgstr "Khôi phục về mặc định"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Right Sidebar"
+msgstr "Thanh bên ở bên phải"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Close all"
+msgstr "Đóng tất cả"
+
+#: plugin-fw/templates/fields/upload.php:34
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+msgid "Upload"
+msgstr "Tải lên"
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+msgid "Plugins Upgraded"
+msgstr "Plugin đã cập nhật"
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+msgid "Plugins Activated"
+msgstr "Plugin đã kích hoạt"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1084
+msgid "Sorting successful."
+msgstr "Sắp xếp thành công."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1083
+msgid "Sorry, import is disabled."
+msgstr "Xin lỗi, tính năng nhập vào bị vô hiệu hoá."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1082
+msgid "The added file is not valid."
+msgstr "Tập tin vừa thêm không có hiệu lực"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1081
+msgid "An error has occurred during import. Please try again."
+msgstr "Có lỗi xảy ra trong quá trình nhập vào. Vui lòng thử lại."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1080
+msgid "Database imported correctly."
+msgstr "Cơ sở dữ liệu nhập vào chính xác."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1078
+#: plugin-fw/includes/class-yit-plugin-panel.php:1079
+msgid "Element updated correctly."
+msgstr "Các thành phần cập nhật chính xác."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1077
+msgid "Element deleted correctly."
+msgstr "Các thành phần đã xoá chính xác."
+
+#: init.php:96
+msgid "YITH WooCommerce Ajax Search is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Ajax Search được bật nhưng không có hiệu lực. Nó đòi hỏi WooC Commerce để hoạt động."
+
+#: init.php:57
+msgid "You can't activate the free version of YITH WooCommerce Ajax Search while you are using the premium one."
+msgstr "Bạn không thể kích hoạt phiên bản miễn phí của YITH WooCommerce Ajax Search trong khi bạn đang sử dụng phiên bản premium."
+
+#: includes/class.yith-wcas.php:231
+msgid "No results"
+msgstr "Không có kết quả"
+
+#. Plugin Name of the plugin
+#: includes/compatibility/elementor/class.yith-wcas-search-form-elementor.php:40
+#: includes/compatibility/elementor/class.yith-wcas-search-form-elementor.php:77
+msgid "YITH WooCommerce Ajax Search"
+msgstr "YITH WooCommerce Ajax Search"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Sidebar bên trái"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+msgid "Choose a sidebar"
+msgstr "Chọn một sidebar"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+msgid "Right sidebar"
+msgstr "Sidebar bên phải"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+msgid "No sidebar"
+msgstr "Không có sidebar"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+msgid "Left sidebar"
+msgstr "Sidebar bên trái"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "Thêm hình ảnh"
+
+#: plugin-fw/templates/fields/image-gallery.php:38
+msgid "Add to gallery"
+msgstr "Thêm album ảnh"
+
+#: plugin-fw/templates/fields/image-gallery.php:37
+msgid "Add Images to Gallery"
+msgstr "Thêm hình ảnh vào album ảnh"
+
+#: plugin-fw/templates/fields/image-gallery.php:29
+#: plugin-fw/templates/fields/image-gallery.php:40
+msgid "Delete image"
+msgstr "Xoá ảnh"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+msgid "Do you want to remove the custom tab?"
+msgstr "Bạn có muốn xóa tab tùy chỉnh không?"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+msgid "Add custom product tab"
+msgstr "Thêm tab sản phẩm tùy chỉnh"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Nội dung của tab. (Hỗ trợ HTML)"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Expand all"
+msgstr "Mở rộng tất cả"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1076
+msgid "Settings reset"
+msgstr "Cài đặt lại"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1075
+msgid "Settings saved"
+msgstr "Đã lưu cài đặt"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1074
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "Các yếu tố bạn nhập đã tồn tại. Xin vui lòng nhập tên khác."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:663
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:140
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:15
+msgid "Are you sure?"
+msgstr "Bạn có chắc không?"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:667
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:143
+msgid "Reset to default"
+msgstr "Cài đặt lại theo mặc định"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:663
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:140
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:15
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Nếu bạn tiếp tục với hành động này, bạn sẽ cài đặt lại tất cả các tùy chọn trong trang này."
+
+#: plugin-fw/includes/class-yith-system-status.php:183
+msgid "YITH Plugins"
+msgstr "YITH Plugins"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:83
+msgid "Plugin Settings"
+msgstr "Cài đặt Plugin"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:436
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Những thay đổi bạn đã thực hiện sẽ bị mất nếu bạn rời khỏi trang này."
+
+#: includes/class.yith-wcas-admin.php:135
+msgid "Premium Version"
+msgstr "Phiên bản Premium"

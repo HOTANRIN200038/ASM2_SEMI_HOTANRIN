@@ -1,0 +1,218 @@
+# Copyright (C) 2022 YITH
+# This file is distributed under the same license as the YITH Color and Label Variations for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Color and Label Variations for WooCommerce 1.22.0\n"
+"Report-Msgid-Bugs-To: YITH <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2022-07-29 14:48:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: YITH <info@yithemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class.yith-wccl-admin.php:288
+msgid "Value"
+msgstr ""
+
+#: includes/class.yith-wccl-admin.php:364
+msgid "Select terms"
+msgstr ""
+
+#: includes/class.yith-wccl-admin.php:376
+msgid "Select all"
+msgstr ""
+
+#: includes/class.yith-wccl-admin.php:377
+msgid "Select none"
+msgstr ""
+
+#: includes/class.yith-wccl-admin.php:378
+msgid "Add new"
+msgstr ""
+
+#: includes/class.yith-wccl-admin.php:430
+msgid "Premium Version"
+msgstr ""
+
+#: includes/functions.yith-wccl.php:94
+msgid "Colorpicker"
+msgstr ""
+
+#: includes/functions.yith-wccl.php:95
+msgid "Image"
+msgstr ""
+
+#: includes/functions.yith-wccl.php:96
+msgid "Label"
+msgstr ""
+
+#: init.php:54
+msgid ""
+"You can't activate the free version of YITH WooCommerce Colors and Labels "
+"Variations while you are using the premium one."
+msgstr ""
+
+#: templates/admin/premium.php:289 templates/admin/premium.php:483
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Color and Label "
+"Variations%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:295 templates/admin/premium.php:489
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:296 templates/admin/premium.php:490
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:302
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:306 templates/admin/premium.php:311
+msgid "Dual color attribute"
+msgstr ""
+
+#: templates/admin/premium.php:316
+#. translators: placeholders are used to add html tags.
+msgid ""
+"How many times did you have to deal with the handling of a "
+"%1$stwo-colored%2$s t-shirt and the decision of how to set its color or "
+"with the use of a label because the color didn’t satisfy your needs? %3$s "
+"Now things have changed! You could select up to two colors for each "
+"attribute and create the right matches for the products of your shop."
+msgstr ""
+
+#: templates/admin/premium.php:322
+#. translators: placeholders are used to add html tags.
+msgid ""
+"You could select up to two colors for each attribute and %1$screate the "
+"right matches%2$s for the products of your shop."
+msgstr ""
+
+#: templates/admin/premium.php:333 templates/admin/premium.php:344
+msgid "Tooltip"
+msgstr ""
+
+#: templates/admin/premium.php:338
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Tooltips are often used on the web: they are an %1$selegant way to give a "
+"preview about the content%2$s and they offer a useful information to the "
+"users. Take advantage of the plugin power to add tooltips to your product "
+"attributes."
+msgstr ""
+
+#: templates/admin/premium.php:352 templates/admin/premium.php:357
+msgid "Attribute description"
+msgstr ""
+
+#: templates/admin/premium.php:362
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Show the attribute description in product page and %1$sgive users as many "
+"information as possible%2$s in order to clear their doubts."
+msgstr ""
+
+#: templates/admin/premium.php:373
+msgid "A richer shop page…"
+msgstr ""
+
+#: templates/admin/premium.php:378
+#. translators: placeholders are used to add html tags.
+msgid ""
+"All the %1$svariations%2$s configured on products will be shown in \"Shop\" "
+"page too: users will have a complete overview about your e-commerce. "
+msgstr ""
+
+#: templates/admin/premium.php:384
+msgid "Shop page"
+msgstr ""
+
+#: templates/admin/premium.php:392 templates/admin/premium.php:397
+msgid "Mouse-over"
+msgstr ""
+
+#: templates/admin/premium.php:402
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Now your wishes come true: by %1$schoosing the variation and hovering your "
+"mouse over it%2$s, the product image will dynamically turn into the "
+"variation image. %3$sA dedicated option will allow enabling or disabling "
+"this feature."
+msgstr ""
+
+#: templates/admin/premium.php:413 templates/admin/premium.php:424
+#: templates/admin/premium.php:473
+msgid "Additional Information"
+msgstr ""
+
+#: templates/admin/premium.php:418
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Enhance the WooCommerce \"Additional Information\" tab in product page by "
+"showing the complete %1$slist of the attributes%2$s associated with the "
+"product."
+msgstr ""
+
+#: templates/admin/premium.php:432 templates/admin/premium.php:437
+msgid "Different image gallery per variation"
+msgstr ""
+
+#: templates/admin/premium.php:443
+#. translators: placeholders are used to add html tags.
+msgid ""
+"The admin can add a unique image gallery for each product variation. "
+"Showing the customer all different looks of the product, in the color of "
+"their choice. \n"
+msgstr ""
+
+#: templates/admin/premium.php:462
+msgid "Show single variations on archive page"
+msgstr ""
+
+#: templates/admin/premium.php:467
+#. translators: placeholders are used to add html tags.
+msgid ""
+"Every variation will be displayed as a separate product. For example if you "
+"offer a sweater in 3 different colors, you will see the same sweater "
+"displayed 3 times, in every color."
+msgstr ""
+
+#: templates/single-product/add-to-cart/variable-wccl.php:27
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: templates/single-product/add-to-cart/variable-wccl.php:43
+msgid "Choose an option"
+msgstr ""
+
+#: templates/single-product/add-to-cart/variable-wccl.php:78
+msgid "Clear"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH Color and Label Variations for "
+"WooCommerce</strong></code> allows you to customize the drop-down select of "
+"your variable products and buy product variations directly from shop pages. "
+"A must-have for every e-commerce. <a href=\"https://yithemes.com/\" "
+"target=\"_blank\">Get more plugins for your e-commerce shop on "
+"<strong>YITH</strong></a>."
+msgstr ""

@@ -1,0 +1,2 @@
+2022-08-10T13:53:34+00:00 CRITICAL syntax error, unexpected integer "143", expecting ")" in /var/www/wordpress/wp-content/themes/storefront/functions.php on line 79
+
